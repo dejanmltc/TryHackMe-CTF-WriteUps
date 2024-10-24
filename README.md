@@ -1,4 +1,4 @@
-# ![TryHackMe](https://tryhackme-images.s3.amazonaws.com/logo.png)
+# ![TryHackMe](https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg)
 
 ## Welcome to my TryHackMe CTF WriteUps Repository!
 
